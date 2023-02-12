@@ -1,1 +1,7 @@
 Flask
+pydub==0.25.1
+pytube==12.1.2
+pytube3==9.6.4
+moviepy==1.0.3
+ffmpeg-python==0.2.0
+ffprobe-python==1.0.3
